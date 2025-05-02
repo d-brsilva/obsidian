@@ -1,14 +1,14 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: Obsidian do Diogo
+bio: Notas para compartilhar
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Um espaço online onde compartilho minhas notas com outras pessoas
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/obsidiana.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -16,22 +16,22 @@ dark-theme: auto
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: false
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://d-brsilva.github.io/obsidian
 # your url: https://USERNAME.github.io
 
-permalink: /:title/
+permalink: https://d-brsilva.github.io/obsidian
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
 
 # if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: github # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+# disqus:
+  # shortname: github # enter this from your disqus account
+  # categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
@@ -43,17 +43,17 @@ email: myemail@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Diogo Barreiras
+    bio: Tentando compartilhar minha mente
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    twitter: diogobrsilva
+  #jamesfoster:
+   # name: James Foster
+    #bio: A Man who develops software with coffee
+    #external-image: false
+    #picture: assets/images/james.jpg
+    #twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -61,23 +61,23 @@ authors:
 width: normal
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+# projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
-blog: true
+# about: true
+# blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
 
 # do you want to show the "tags" inside the posts?
-show-tags: true
+# show-tags: true
 
 # related posts inside a post?
-related: true
+# related: true
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+# post-advance-links: [blog]
 
 # show author block at the end of a post ?
 show-author: true
