@@ -8,7 +8,7 @@ description: Um espaço online onde compartilho minhas notas com outras pessoas
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/obsidiana.jpg
+picture: assets/images/obsidiana.png
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -34,12 +34,12 @@ permalink: https://d-brsilva.github.io/obsidian
   # categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+facebook: diogobrsilva
+twitter: diogobrsilva
+instagram: diogobrsilva
+linkedin: diogobrsilva
+github: d-brsilva
+email: diogobrsilva@gmail.com
 
 authors:
   johndoe:
